@@ -33,7 +33,7 @@ Chi square analysis of 195 pairs of variables and 100k rows.  Keywords: sas sql 
     OUTPUT
     ======
 
-     WORK.CHIS total obs=3
+     WORK.CHIS total obs=195
 
          Table            Statistic      DF       Value       Prob
 
