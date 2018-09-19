@@ -26,7 +26,7 @@ WORK.HAVE total obs=100,000
 OUTPUT
 ======
 
- WORK.CHIS total obs=3
+ WORK.CHIS total obs=195
 
      Table            Statistic      DF       Value       Prob
 
